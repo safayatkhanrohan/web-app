@@ -1,0 +1,21 @@
+.sign-up {
+    width: 500px;
+    padding: 3rem;
+    display: block;
+    margin: 10% auto;
+}
+
+.sign-up  * {
+    display: block;
+    margin: 1rem auto;
+}
+.sign-up img {
+    width: 30%;
+    border-radius: 20%;
+    margin: 2rem auto;
+}
+h1 {
+    text-align: center;
+    margin-top: 10%;
+    position: relative;
+}
